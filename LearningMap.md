@@ -17,7 +17,8 @@
 ## In Process
 
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
-|OCR|Data Scientist|Project|-|2022-04-1|2022-05-02|In process|Docker; Python;|-|
+|-|-|-|-|-|-|-|-|-|
+|OCR|Data Scientist|Project|-|2022-04-1|2022-05-02|In process|Docker; Flask; Python; VGG16;|-|
 
 ## To do
 
