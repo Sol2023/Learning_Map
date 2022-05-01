@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Adonis Auto Group as Data Scientist
-- 🌱 I’m currently learning Deep Learning, NLP, Computer Vision and advanced topic of Machine Learning
+- 🌱 I’m currently learning Deep Learning, NLP, Computer Vision, Advanced topic of Machine Learning and Front-end Web Development
 - 👯 I’m looking to collaborate on Machine Leaerning, OCR, Recommendation System, Survival rate analysis
 - 💬 Ask me about anything about machine learning
 - 📫 How to reach me: szhuang2021@gmail.com or +14699277589
