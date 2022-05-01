@@ -20,8 +20,12 @@
 |-|-|-|-|-|-|-|-|-|
 |OCR|Data Scientist|Project|-|2022-04-1|2022-05-02|In process|Docker; Flask; Python; VGG16;|-|
 |Front-end Web Development|Software Engineer|Online course|-|2022-04-30|2022-05-31|In process|HTML,CSS, JavaScript,Reat, Tailwind, Reat Query, github, CI and CD|-|https://www.youtube.com/watch?v=ZxKM3DCV2kE&list=WL&index=1&ab_channel=codedamn|
+|Deep Learning|Data Scientist|Online Course|:star:|2022-04-29|2022-05-10|In Process|ANN,Forward/Backward Propagation, Activation Function, Optimizor,TensorFlow, Pytorch|https://learn.ineuron.ai/course/Full-Stack-Data-Science/61b9f70370ffc3634c646fb3|
 
 ## To do
 
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
+|Computer Vision|Data Scientist|Online Course|:star:|2022-05-10|2022-05-20|In Process||https://learn.ineuron.ai/course/Full-Stack-Data-Science/61b9f70370ffc3634c646fb3|
+|NLP|Data Scientist|Online Course|:star:|2022-05-20|2022-05-30|In Process||https://learn.ineuron.ai/course/Full-Stack-Data-Science/61b9f70370ffc3634c646fb3|
+
