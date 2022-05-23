@@ -31,4 +31,4 @@
 |-|-|-|-|-|-|-|-|-|
 |Computer Vision|Data Scientist|Online Course|:star:|2022-05-10|2022-05-20|In Process||https://learn.ineuron.ai/course/Full-Stack-Data-Science/61b9f70370ffc3634c646fb3|
 |NLP|Data Scientist|Online Course|:star:|2022-05-20|2022-05-30|In Process||https://learn.ineuron.ai/course/Full-Stack-Data-Science/61b9f70370ffc3634c646fb3|
-|<Designing Data-Intensive Applications>|Software Engineer|Book|-|-|-|-|-|-|
+|Designing Data-Intensive Applications|Software Engineer|Book|-|-|-|-|-|-|
