@@ -23,7 +23,7 @@
 
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
-|Deep Learning with Pytorch Step-by-Step|Data Scientist|Book|-|2022-08-22|2022-10-22|In process|Pytorch, Deep Learning, NLP|-|
+|Deep Learning with Pytorch Step-by-Step|Data Scientist|Book|:star:|2022-08-22|2022-10-22|In process|Pytorch, Deep Learning, NLP|-|
 |OCR|Data Scientist|Project|-|2022-04-1|2022-05-02|In process|Docker; Flask; Python; VGG16;|-|
 |Front-end Web Development|Software Engineer|Online course|-|2022-04-30|2022-05-31|In process|HTML,CSS, JavaScript,Reat, Tailwind, Reat Query, github, CI and CD|-|https://www.youtube.com/watch?v=ZxKM3DCV2kE&list=WL&index=1&ab_channel=codedamn|
 |Computer Vision|Data Scientist|Online Course|:star:|2022-05-09|2022-05-31|In Process||-|
