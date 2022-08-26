@@ -7,8 +7,8 @@
 ## Track
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
-|<Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing>|Data Scientist|Book|-|2022-07-01|2022-07-31|Done|A/B testing|-|
-|A/B Testing for Business Analysts|Data Scientist|Online Course|-|2022-06-10|2022-06-18|Done|A/B Testing|-|
+|<Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing>|Data Scientist|Book|:star:|2022-07-01|2022-07-31|Done|A/B testing|https://www.amazon.com/Trustworthy-Online-Controlled-Experiments-Practical/dp/B0981936M8/ref=sr_1_1?crid=2UJ9IYHL6BCM3&keywords=Trustworthy+Online+Controlled+Experiments&qid=1661527863&sprefix=%2Caps%2C901&sr=8-1|
+|A/B Testing for Business Analysts|Data Scientist|Online Course|:star:|2022-06-10|2022-06-18|Done|A/B Testing|https://learn.udacity.com/courses/ud979|
 |Hotel Reservation Application|Software Engineer|Project|-|2022-05-28|2022-06-05|Done|-|-|
 |Survival Anallysis: Lifelines|Data Scientist|Office Document|:star:|2022-05-16|2022-05-20|Done|KM Modle, COX PH Model|https://lifelines.readthedocs.io/en/latest/Survival%20Regression.html|
 |Deep Learning|Data Scientist|Online Course|:star:|2022-04-29|2022-05-08|Done|ANN,Forward/Backward Propagation, Activation Function, Optimizor,TensorFlow, Pytorch|https://learn.ineuron.ai/course/Full-Stack-Data-Science/61b9f70370ffc3634c646fb3|
