@@ -6,8 +6,8 @@
 
 
 ## Effective Call Prediction  
-**Primary Goal**: Priority daily call to increase call efficiency and reduce cost
-**Solution**: Using Python to extract and clean the data from structure and unstructured database, creating 5 new important features, then applying Model Stacking technique to train the model
+**Primary Goal**: Priority daily call to increase call efficiency and reduce cost <br/>
+**Solution**: Using Python to extract and clean the data from structure and unstructured database, creating 5 new important features, then applying Model Stacking technique to train the model <br/>
 **Result**: Increase call rate effective from 18% to 45%
 
 ## Delinquency Risk Prediction
