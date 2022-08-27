@@ -11,9 +11,9 @@
 **Result**: Increase call rate effective from 18% to 45%<br/>
 
 ## Delinquency Risk Prediction
-**Primary Goal**: Predict delinquency risk and take accordingly business measure to reduce it
-**Solution**: Employed Model Stacking technique to ensemble Logistic Regression, Random Forest and XGBoost as first layer and then aggregated with LightGBM as second layers to develop the final model with Python
-**Result**: Reduce delinquency rate from 18% to 15%
+**Primary Goal**: Predict delinquency risk and take accordingly business measure to reduce it <br/><br/>
+**Solution**: Employed Model Stacking technique to ensemble Logistic Regression, Random Forest and XGBoost as first layer and then aggregated with LightGBM as second layers to develop the final model with Python<br/><br/>
+**Result**: Reduce delinquency rate from 18% to 15%<br/>
 
 
 ## OCR typo and Web crawled text integration detection
