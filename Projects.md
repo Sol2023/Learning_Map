@@ -2,7 +2,7 @@
 ## Underwriting Model Development
 **Primary Goal**: Developed underwriting scoring model to classify auto loan based on survival rate <br/> <br/>
 **Solution**: Pulled data from MySQL, implemented data cleaning with Python and tested features statistically significant with Kaplan-Meier and COX PH model, applied AFT, RSF (Random Survival Forest) and Neural MTLR Model to divide customers into 5 different types and computed the historical CNL performance, finally selected RSF as final model and deployed it in production <br/><br/>
-**Result**: New model boosted 28% loan acceptance and led to 20 million loan amount increase <br/>
+**Result**: New model boosted 21% loan acceptance and led to extra $ 12 million loan amount increase annually <br/>
 
 
 ## Effective Call Prediction  
