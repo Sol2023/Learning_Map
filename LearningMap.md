@@ -17,6 +17,8 @@
 |Think Stats|Machine Learning|Book|:star:|2022-01-20|2022-02-22|Done|Excellent book for EDA and Survival Analysis Part is Helpful|-|
 |Insurance Fraud Detection|Data Scientist|Project|:star:|2022-01-15|2022-02-15|Done|Docker; Flask; Deployment; K-means; SVM; Random Forest;|-|
 |Underwriting Survival Rate Prediction|Data Scientist|Project|:star:|2022-03-01|2022-03-15|Done|KM-Model; COX Model; R;|-|
+|Dashboard Building|Business Analyst|Project|:star:|2021-05-01|2021-06-15|Done|POWER BI; Dashboard|https://github.com/Sol2023/POWER_BI.git|
+
 
 
 ## In Process
